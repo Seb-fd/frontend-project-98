@@ -23,3 +23,7 @@ Puedes ver una grabación de la ejecución del juego "gcd" en la terminal aquí:
 Puedes ver una grabación de la ejecución del juego "progression" en la terminal aquí:
 
 [![Ver demo en asciinema](https://asciinema.org/a/fNDCF5k9VBtaJqDyoeBt5DeUy.svg)](https://asciinema.org/a/fNDCF5k9VBtaJqDyoeBt5DeUy)
+
+Puedes ver una grabación de la ejecución del juego "prime" en la terminal aquí:
+
+[![Ver demo en asciinema](https://asciinema.org/a/2MczjstJoHwjNuwtKLTFxI8Oc.svg)](https://asciinema.org/a/2MczjstJoHwjNuwtKLTFxI8Oc)
