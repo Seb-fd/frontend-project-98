@@ -15,3 +15,7 @@ Puedes ver una grabación de la ejecución del juego "even" en la terminal aquí
 Puedes ver una grabación de la ejecución del juego "calc" en la terminal aquí:
 
 [![Ver demo en asciinema](https://asciinema.org/a/IFqUtmNEZahfwtGrtGqM3MDM2.svg)](https://asciinema.org/a/IFqUtmNEZahfwtGrtGqM3MDM2)
+
+Puedes ver una grabación de la ejecución del juego "gcd" en la terminal aquí:
+
+[![Ver demo en asciinema](https://asciinema.org/a/bs3raSzUZ3yzF9yQR6aEtOVMY.svg)](https://asciinema.org/a/bs3raSzUZ3yzF9yQR6aEtOVMY)
